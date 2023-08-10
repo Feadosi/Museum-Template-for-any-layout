@@ -4,8 +4,8 @@
 This project is a software interface for controlling the lighting system. It allows you to dynamically, in real time, adjust the lighting scenes, which increases the realism and attractiveness of the model. This project is a template and can be modified for any layout.
 
 ## Quick Start
-1. Clone this repo: `git clone https://github.com/Feadosi/Template-for-any-layout.git`
-2. Navigate to the repo: `cd Template-for-any-layout`
+1. Clone this repo: `git clone https://github.com/Feadosi/Museum-Template-for-any-layout.git `
+2. Navigate to the repo: `cd Museum-Template-for-any-layout`
 3. Open Microchip Studio
 4. Run AVRDUDEPROG.exe
 5. Connect the programmer to the microcontroller and to the computer
